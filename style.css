@@ -1,0 +1,20 @@
+p.intro{
+    color: rgb(110, 73, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+*{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading{
+    font-size: x-large;
+}
+
+.style{
+    font-style: italic;
+    font-size: larger;
+    
+}
+
